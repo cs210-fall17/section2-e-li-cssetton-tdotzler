@@ -21,6 +21,7 @@ println("Lock S-foils in attack position."
     public static void goldLeader() {
 
         // Gold Leader should add a print statement that says "Loosen up!"
+        System.out.println("Loosen Up!");
     
 
     }
