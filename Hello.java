@@ -19,6 +19,7 @@ public class Hello {
     public static void goldLeader() {
 
         // Gold Leader should add a print statement that says "Loosen up!"
+        System.out.println("Loosen Up!");
     
 
     }
@@ -26,7 +27,7 @@ public class Hello {
     public static void redLeader() {
  
         // Red Leader should add a print statement that says "I copy, gold leader!"
-        
+    	System.out.println("I copy, gold leader!");
 
     }
 
